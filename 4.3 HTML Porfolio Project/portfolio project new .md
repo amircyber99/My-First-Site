@@ -24,12 +24,8 @@
     </h2>
     <img src="./BirthDay.png" alt="" width="400">
     <hr>
-    <h3>
-        <a href="./Contact Me.md">Contact Me</a>
-    </h3>
-    <h3>
-        <a href="./About Me.md">About Me</a>
-    </h3>
+    <a href="./Contact Me.md">Contact Me</a>
+    <a href="./About Me.md">About Me</a>
 </body>
 </html>
 
