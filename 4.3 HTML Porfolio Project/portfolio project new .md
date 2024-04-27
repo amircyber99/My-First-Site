@@ -20,7 +20,7 @@
     <img src="./movies.png" alt="Movies Picture" width="400">
     <hr>
     <h2>
-        <a href="./BirthDay.html">Birth Day Project.</a>
+        <a href="./BirthDay.md">Birth Day Project.</a>
     </h2>
     <img src="./BirthDay.png" alt="" width="400">
     <hr>
