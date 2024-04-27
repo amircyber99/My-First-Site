@@ -10,7 +10,7 @@
     <h2>I'm a Web Developer</h2>
     <hr>
     <h2>
-        <a href="./movies.html">
+        <a href="./movies.md">
             Movie Ranking Project
         </a>
     </h2>
