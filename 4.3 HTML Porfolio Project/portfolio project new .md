@@ -28,7 +28,7 @@
         <a href="./Contact Me.html">Contact Me</a>
     </h3>
     <h3>
-        <a href="./About Me.html">About Me</a>
+        <a href="./About Me.md">About Me</a>
     </h3>
 </body>
 </html>
